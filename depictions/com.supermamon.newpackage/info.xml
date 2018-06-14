@@ -1,17 +1,18 @@
 <package>
 	<id>com.coligny.fullpackage</id>
-	<name>Full Package</name>
+	<name>Packages</name>
 	<version>2.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>10.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencie>
-		<package>You need to have Jailbreak</package>
+		<package>#You need to have Jailbreak</package>
 	</dependencie>
 	<descriptionlist>
-		<description>These packages are added in different repositories</description>
+		<description>These packages are added in different repositories and packages created by: ParzivalSna</description>
 		<description>You can look at the different tweaks in Photos about the tweaks. </description>
 	</descriptionlist>
 	<screenshots>
@@ -28,8 +29,9 @@
 		<change>Second release</change>
 		<change>Implements tweaks for IOS 10</change>
 		<change>Implements tweaks for IOS 11</change>
-		<change>#In the next updates</change>
-		<change>We expect a new interface in the repository</change> 
+		<change>#In the next updates#</change>
+		<change>We expect a new interface in the repository</change>
+		<change>And more tweaks for IOS 11</change> 
 	</changelog>
 	<links>
 		<link>
