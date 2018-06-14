@@ -1,7 +1,7 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.coligny.packagescreatedbyparzivalsna</id>
+	<name>Packages Created By: ParzivalSna</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>This is a packages created by: ParzivalSna. Requires iOS 7</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
