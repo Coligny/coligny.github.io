@@ -1,12 +1,14 @@
 <changelog>
 	<changes>
-		<version>1.0</version>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<version>0.9</version>
+		<change>first release</change>
+		<change>Improvements in the reposiry graphically</change>
+		<change>Implemetation of 2 tweaks for IOS 7</change>
+		<change>New Logo of Coligny</change>
 	</changes>
 	<changes>
 		<version>1.0</version>
 		<change>Initial Release</change>
+		<change>Implements improvements and 3 new tweaks for IOS 7</change>
 	</changes>
 </changelog>
