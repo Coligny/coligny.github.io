@@ -7,17 +7,12 @@
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
+	<dependencie>
+		<package>You need to have Jailbreak</package>
+	</dependencie>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>These packages are added in different repositories</description>
+		<description>You can look at the different tweaks in Photos about the tweaks. </description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -31,8 +26,10 @@
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Implements tweaks for IOS 10</change>
+		<change>Implements tweaks for IOS 11</change>
+		<change>#In the next updates</change>
+		<change>We expect a new interface in the repository</change> 
 	</changelog>
 	<links>
 		<link>
