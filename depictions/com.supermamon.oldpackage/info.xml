@@ -1,3 +1,4 @@
+
 <package>
 	<id>com.supermamon.oldpackage</id>
 	<name>Information</name>
@@ -5,7 +6,12 @@
 
 	<dependencies></dependencies>
 	<descriptionlist>
-		<Information>This is an old package. Requires iOS 7 and below..</Information>
+		<description>
+			<div class="container">
+				<h2>Information</h2>
+				<div class="well">
+					<p>
+		</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
